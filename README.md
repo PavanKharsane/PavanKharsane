@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Viacom-cbs**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Linux, DevOps**
 
 - 💬 Ask me about **C, C++, Java, Angular, Sql, Plsql**
 
